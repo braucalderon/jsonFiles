@@ -2,35 +2,40 @@
 [
     {
         "id": 0,
-        "name": " ",
+        "tittle": "Database ",
         "description":" ",
         "img": "https://github.com/braucalderon/jsonFiles/blob/main/covid.gif"
 
     },
     {
         "id": 1,
-        "name": " ",
-        "description":" "
+        "tittle": " ",
+        "description":" ",
+        "img": " "
 
     },
     {
         "id": 2,
-        "name": " ",
-        "description":" "
+        "tittle": " ",
+        "description":" ",
+        "img": " "
     },
     {
         "id": 3,
-        "name": " ",
-        "description":" "
+        "tittle": " ",
+        "description":" ",
+        "img": " "
     },
     {
         "id": 4,
-        "name": " ",
-        "description":" "
+        "tittle": " ",
+        "description":" ",
+        "img": " "
     },
     {
         "id": 5,
-        "name": " ",
-        "description":" "
+        "tittle": " ",
+        "description":" ",
+        "img": " "
     }
 ] 
