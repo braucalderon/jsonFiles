@@ -20,34 +20,34 @@
     },
     {
         "id": 2,
-        "tittle": "JavaScript Small Project",
-        "description":" ",
+        "tittle": "JavaScript Small Project - BUDGET",
+        "description":"Created a small project usign javaScript manupulating the DOM",
         "note": "Click on the javaScript small project card for mroe info",
-        "img": "",
-        "url": "https://budget-gamma.vercel.app/"
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
+        "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
     },
     {
         "id": 3,
-        "tittle": " ",
-        "description":" ",
+        "tittle": "JavaScript Small Project - TWO DICE PIG",
+        "description":"Build a small game using javaScript to understand the manipulation of the DOM",
         "note": "Click on card for more info ",
-        "img": " ",
-        "url": " "
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
+        "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
     },
     {
         "id": 4,
-        "tittle": " ",
-        "description":" ",
+        "tittle": "HTML & CSS first projects",
+        "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler",
         "note": "Click on card for more info ",
-        "img": " ",
-        "url": " "
+        "img": "",
+        "url": "https://github.com/braucalderon/html-css"
     },
     {
         "id": 5,
-        "tittle": " ",
-        "description":" ",
-        "note": "Click on card for more info ",
-        "img": " ",
-        "url": " "
+        "tittle": "Personal Website",
+        "description":"Web application using React.js and Material UI",
+        "note": "Click on the personal website card for more information",
+        "img": "",
+        "url": "https://github.com/braucalderon/profile"
     }
 ] 
