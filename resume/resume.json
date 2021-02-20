@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "personalInfo": "Personal Info",
+        "skills": "Skills",
+        "email": "braucalderon3&gmail.com"
+    },
+    {
+        "id": 1,
+        "experience": "Experience",
+        "education": "Education",
+        "interests": "Interests"
+    },
+    {
+        "id": 2,
+        "jobTittle1": "Web Developer / Covid-Connect",
+        "jobTittle2": "The Knowledge House",
+        "jobTittle3": "Back-End Developer",
+    },
+    {
+        "id": 3,
+        "jobSubTittle1": "React.js",
+        "jobSubTittle2": "Web Developer / Intership",
+        "jobSubTittle3": "Registration Prototype System",
+    },
+    {
+        "id": 4,
+        "gpa": "GPA 3.0",
+        "educationTittle1": "New York-Herbert H. Lehman College",
+        "educationTittle2": "CUNY Bronx Community College",
+        "educationSubTittle1": "BS, Computer Software Engineering",
+        "educationSubTittle2": " AS, Computer Software Engineering",
+    }
+]
