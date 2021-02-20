@@ -3,7 +3,8 @@
     {
         "id": 0,
         "tittle": "Covid-Connect Daily Fact Checker ",
-        "description":" ",
+        "description":"Web Application to track the national Covid pandemic using real data from the CDC",
+        "note": "Click on card for more info ",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
         "url": "https://github.com/braucalderon/react/tree/main/covid_connect"
 
@@ -12,6 +13,7 @@
         "id": 1,
         "tittle": " ",
         "description":" ",
+        "note": "Click on card for more info ",
         "img": " ",
         "url": " "
 
@@ -20,6 +22,7 @@
         "id": 2,
         "tittle": " ",
         "description":" ",
+        "note": "Click on card for more info ",
         "img": " ",
         "url": " "
     },
@@ -27,6 +30,7 @@
         "id": 3,
         "tittle": " ",
         "description":" ",
+        "note": "Click on card for more info ",
         "img": " ",
         "url": " "
     },
@@ -34,6 +38,7 @@
         "id": 4,
         "tittle": " ",
         "description":" ",
+        "note": "Click on card for more info ",
         "img": " ",
         "url": " "
     },
@@ -41,6 +46,7 @@
         "id": 5,
         "tittle": " ",
         "description":" ",
+        "note": "Click on card for more info ",
         "img": " ",
         "url": " "
     }
