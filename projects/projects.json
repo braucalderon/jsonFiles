@@ -47,7 +47,7 @@
         "tittle": "Personal Website",
         "description":"Web application using React.js and Material UI",
         "note": "Click on the personal website card for more information",
-        "img": "",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/web-stie.gif",
         "url": "https://github.com/braucalderon/profile"
     }
 ] 
