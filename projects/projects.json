@@ -30,7 +30,7 @@
         "id": 3,
         "tittle": "JavaScript Small Project - TWO DICE PIG",
         "description":"Build a small game using javaScript to understand the manipulation of the DOM",
-        "note": "Click on card for more info ",
+        "note": "Click on the two dice pig card for more info ",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
     },
@@ -38,7 +38,7 @@
         "id": 4,
         "tittle": "HTML & CSS first projects",
         "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler",
-        "note": "Click on card for more info ",
+        "note": "Click on the html & css card for more info ",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/html.gif",
         "url": "https://github.com/braucalderon/html-css"
     },
