@@ -14,17 +14,17 @@
         "tittle": "Java Prototupe Application",
         "description":" ",
         "note": "Click on the Java Protoptype card for more info",
-        "img": " ",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/java_app.gif",
         "url": "https://github.com/braucalderon/Database"
 
     },
     {
         "id": 2,
-        "tittle": " ",
+        "tittle": "JavaScript Small Project",
         "description":" ",
-        "note": "Click on card for more info ",
-        "img": " ",
-        "url": " "
+        "note": "Click on the javaScript small project card for mroe info",
+        "img": "",
+        "url": "https://budget-gamma.vercel.app/"
     },
     {
         "id": 3,
