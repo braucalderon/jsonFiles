@@ -2,40 +2,46 @@
 [
     {
         "id": 0,
-        "tittle": "Database ",
+        "tittle": "Covid-Connect Daily Fact Checker ",
         "description":" ",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif"
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
+        "url": "https://github.com/braucalderon/react/tree/main/covid_connect"
 
     },
     {
         "id": 1,
         "tittle": " ",
         "description":" ",
-        "img": " "
+        "img": " ",
+        "url": " "
 
     },
     {
         "id": 2,
         "tittle": " ",
         "description":" ",
-        "img": " "
+        "img": " ",
+        "url": " "
     },
     {
         "id": 3,
         "tittle": " ",
         "description":" ",
-        "img": " "
+        "img": " ",
+        "url": " "
     },
     {
         "id": 4,
         "tittle": " ",
         "description":" ",
-        "img": " "
+        "img": " ",
+        "url": " "
     },
     {
         "id": 5,
         "tittle": " ",
         "description":" ",
-        "img": " "
+        "img": " ",
+        "url": " "
     }
 ] 
