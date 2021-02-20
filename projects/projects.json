@@ -4,18 +4,18 @@
         "id": 0,
         "tittle": "Covid-Connect Daily Fact Checker ",
         "description":"Web Application to track the national Covid pandemic using real data from the CDC",
-        "note": "Click on card for more info ",
+        "note": "Click on the Covid-Connect Card for more info",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
         "url": "https://github.com/braucalderon/react/tree/main/covid_connect"
 
     },
     {
         "id": 1,
-        "tittle": " ",
+        "tittle": "Java Prototupe Application",
         "description":" ",
-        "note": "Click on card for more info ",
+        "note": "Click on the Java Protoptype card for more info",
         "img": " ",
-        "url": " "
+        "url": "https://github.com/braucalderon/Database"
 
     },
     {
