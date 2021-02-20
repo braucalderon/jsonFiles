@@ -13,7 +13,7 @@
         "id": 1,
         "tittle": "Java Prototupe Application",
         "description":"Build an application using java graphical user interface connected to a database.",
-        "note": "Click on the Java Protoptype card for more details",
+        "note": "Click on the Java Prototype card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/java_app.gif",
         "url": "https://github.com/braucalderon/Database"
 
@@ -21,15 +21,15 @@
     {
         "id": 2,
         "tittle": "JavaScript - Budget project",
-        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback funstions.",
-        "note": "Click on the javaScript small project card for mroe details",
+        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback functions.",
+        "note": "Click on the javaScript small project card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
     },
     {
         "id": 3,
         "tittle": "JavaScript - Two dice pig",
-        "description":"Simple dice game. The program will automatically assign the next player's turn. The user have a separate count of each winning game. Some buttons are disabled once the user set the disared score, otherwise the score wil have their default 100 of points to win.",
+        "description":"Simple dice game. The program will automatically assign the next player's turn. The user have a separate count of each winning game. Some buttons are disabled once the user set the disared score, otherwise the score will have their default of 100 points to win the game.",
         "note": "Click on the two dice pig card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
