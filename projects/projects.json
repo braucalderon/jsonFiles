@@ -2,9 +2,9 @@
 [
     {
         "id": 0,
-        "tittle": "Covid-Connect Daily Fact Checker ",
+        "tittle": "React - Covid-Connect Daily Fact Checker ",
         "description":"Web Application to track the national Covid pandemic using real data from the CDC",
-        "note": "Click on the Covid-Connect Card for more info",
+        "note": "Click on the Covid-Connect Card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
         "url": "https://github.com/braucalderon/react/tree/main/covid_connect"
 
@@ -12,41 +12,41 @@
     {
         "id": 1,
         "tittle": "Java Prototupe Application",
-        "description":" ",
-        "note": "Click on the Java Protoptype card for more info",
+        "description":"Build an application using java graphical user interface connected to a database.",
+        "note": "Click on the Java Protoptype card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/java_app.gif",
         "url": "https://github.com/braucalderon/Database"
 
     },
     {
         "id": 2,
-        "tittle": "JavaScript Small Project - BUDGET",
-        "description":"Created a small project usign javaScript manupulating the DOM",
-        "note": "Click on the javaScript small project card for mroe info",
+        "tittle": "JavaScript - Budget project",
+        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback funstions.",
+        "note": "Click on the javaScript small project card for mroe details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
     },
     {
         "id": 3,
-        "tittle": "JavaScript Small Project - TWO DICE PIG",
-        "description":"Build a small game using javaScript to understand the manipulation of the DOM",
-        "note": "Click on the two dice pig card for more info ",
+        "tittle": "JavaScript - Two dice pig",
+        "description":"Simple dice game. The program will automatically assign the next player's turn. The user have a separate count of each winning game. Some buttons are disabled once the user set the disared score, otherwise the score wil have their default 100 of points to win.",
+        "note": "Click on the two dice pig card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
     },
     {
         "id": 4,
-        "tittle": "HTML & CSS first projects",
+        "tittle": "HTML & CSS",
         "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler",
-        "note": "Click on the html & css card for more info ",
+        "note": "Click on the html & css card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/html.gif",
         "url": "https://github.com/braucalderon/html-css"
     },
     {
         "id": 5,
-        "tittle": "Personal Website",
-        "description":"Web application using React.js and Material UI",
-        "note": "Click on the personal website card for more information",
+        "tittle": "Rect - Personal Website",
+        "description":"Clean and easy to navigate. Applied a more moderm design using material UI tools. The entire web application is created by components using react hooks. JSON files were created to avoid hard coding data.",
+        "note": "Click on the personal website card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/web-stie.gif",
         "url": "https://github.com/braucalderon/profile"
     }
