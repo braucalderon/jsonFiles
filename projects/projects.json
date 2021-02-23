@@ -11,7 +11,7 @@
     },
     {
         "id": 1,
-        "tittle": "Java Prototupe Application",
+        "tittle": "Java Prototype Application",
         "description":"Build an application using java graphical user interface connected to a database.",
         "note": "Click on the Java Prototype card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/java_app.gif",
@@ -29,7 +29,7 @@
     {
         "id": 3,
         "tittle": "JavaScript - Two dice pig",
-        "description":"Simple dice game. The program will automatically assign the next player's turn. The user have a separate count of each winning game. Some buttons are disabled once the user set the disared score, otherwise the score will have their default of 100 points to win the game.",
+        "description":"The game was improved by adding extra features into the game.",
         "note": "Click on the two dice pig card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
         "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
@@ -45,7 +45,7 @@
     {
         "id": 5,
         "tittle": "React - Personal Website",
-        "description":"Clean and easy to navigate. Applied a more moderm design using material UI tools. The entire web application was created by functional compoenents (react hooks). JSON files were created to avoid hard coding data.",
+        "description":"Clean and easy to navigate. Built a moderm design using material UI tools. The application was created by functional compoenents (react hooks) and Json files to avoid hard coding data.",
         "note": "Click on the personal website card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/web-stie.gif",
         "url": "https://github.com/braucalderon/profile"
