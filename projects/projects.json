@@ -45,7 +45,7 @@
     {
         "id": 5,
         "tittle": "React - Personal Website",
-        "description":"Clean and easy to navigate. Built a moderm design using material UI tools. The application was created by functional compoenents (react hooks) and Json files to avoid hard coding data.",
+        "description":"Clean and easy to navigate. Material UI tools were applied into this project. The application was created by functional compoenents (react hooks). Api's JavaScript objects were created with objects properties to avoid hard coding data.",
         "note": "Click on the personal website card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/web-stie.gif",
         "url": "https://github.com/braucalderon/profile"
