@@ -1,17 +1,9 @@
 [
     {
-        "bio1": "Braulio Calderon has a dedicated integrity to achieve his goals. One of his achievements is his Bachelor of Science in Computer Science from Lehman College CUNY. Braulio started in computer science with no previous knowledge in programming. The opposite from the majority that starts in the field. "
-    },
-    {
-        "bio2": "Braulio’s dedication and work ethics promoted him as a Manager at International House of New York, which he worked there for 8 years. The challenges presented to him while working and getting his bachelor’s in computer science has made him to appreciate more the knowledge gained in the work field and in his major. As someone that went into a career path that was intimidating in so many ways. He has accomplished a level of knowledge and confidence to help others with similar situations like him."
-    },
-    {
-        "bio3":"As a student, he was selected from a pool of eligible college students to participate into an internship program. The program landed him his first internship in web development with intensive layers of eliminations during one-month rigorous training."
-    },
-    {
-        "bio4": "Braulio’s skill to adapt to any condition presented to him, has made him a great accomplisher."
-    },
-    {
+        "bio1": "Braulio Calderon has a dedicated integrity to achieve his goals. One of his achievements is his Bachelor of Science in Computer Science from Lehman College CUNY. Braulio started in computer science with no previous knowledge in programming. The opposite from the majority that starts in the field. ",
+        "bio2": "Braulio’s dedication and work ethics promoted him as a Manager at International House of New York, which he worked there for 8 years. The challenges presented to him while working and getting his bachelor’s in computer science has made him to appreciate more the knowledge gained in the work field and in his major. As someone that went into a career path that was intimidating in so many ways. He has accomplished a level of knowledge and confidence to help others with similar situations like him.",
+        "bio3":"As a student, he was selected from a pool of eligible college students to participate into an internship program. The program landed him his first internship in web development with intensive layers of eliminations during one-month rigorous training.",
+        "bio4": "Braulio’s skill to adapt to any condition presented to him, has made him a great accomplisher.",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/photos/photo.jpg"
     }
 ]
