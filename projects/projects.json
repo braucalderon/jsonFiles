@@ -49,6 +49,14 @@
         "note": "Click on the html & css card for more details",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/html.gif",
         "url": "https://github.com/braucalderon/html-css"
+    },
+    {
+        "id": 6,
+        "tittle": "Mobile Android",
+        "description":"Essentials of android mobile application development",
+        "note": "Click on the mobile android card for more details",
+        "img": "https://raw.githubusercontent.com/braucalderon/andriod_class/master/final_project/covid2.gif",
+        "url": "https://github.com/braucalderon/andriod_class"
     }
     
 ] 
