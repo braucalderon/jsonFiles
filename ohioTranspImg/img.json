@@ -1,14 +1,18 @@
 [
     {
         "tittle": "Trips",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/train.jpeg"
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/train.jpeg",
+        "width": "40%"
     },
     {
         "tittle":"Schedules",
-        "img":"https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/schedules.jpeg"
+        "img":"https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/schedules.jpeg",
+        "width": "50%"
+
     },
     {
         "tittle": "Fares",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/fares.jpeg"
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/fares.jpeg",
+        "width": "40%"
     }
 ]
