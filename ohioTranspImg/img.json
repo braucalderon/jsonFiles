@@ -2,12 +2,10 @@
     {
         "id": "trips",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/train.jpeg"
-        
     },
     {
         "id":"schedules",
-        "img":"https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/schedules.jpeg",
-
+        "img":"https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/schedules.jpeg"
     },
     {
         "id": "fares",
