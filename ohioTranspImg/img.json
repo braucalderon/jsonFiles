@@ -2,7 +2,7 @@
     {
         "tittle": "Trips",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/train.jpeg",
-        "width": "60%"
+        "width": "90%"
     },
     {
         "tittle":"Schedules",
@@ -12,6 +12,6 @@
     {
         "tittle": "Fares",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/fares.jpeg",
-        "width": "60%"
+        "width": "90%"
     }
 ]
