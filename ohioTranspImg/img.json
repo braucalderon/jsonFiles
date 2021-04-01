@@ -1,14 +1,14 @@
 [
     {
-        "id": "trips",
+        "tittle": "Trips",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/train.jpeg"
     },
     {
-        "id":"schedules",
+        "tittle":"Schedules",
         "img":"https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/schedules.jpeg"
     },
     {
-        "id": "fares",
+        "tittle": "Fares",
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/ohioTranspImg/fares.jpeg"
     }
 ]
