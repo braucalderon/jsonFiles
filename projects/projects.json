@@ -11,14 +11,6 @@
     },
     {
         "id": 1,
-        "tittle": "React - Personal Website",
-        "description":"Created JavaScript Object Notation to generate data.",
-        "note": "Click on the personal website card for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/web-stie.gif",
-        "url": "https://github.com/braucalderon/profile"
-    },
-    {
-        "id": 2,
         "tittle": "Java Prototype Application",
         "description":"Build an application using Java graphical user interface connected to a database.",
         "note": "Click on the Java Prototype card for more details",
@@ -27,7 +19,7 @@
 
     },
     {
-        "id": 3,
+        "id": 2,
         "tittle": "JavaScript - Budget project",
         "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback functions.",
         "note": "Click on the JavaScript small project card for more details",
@@ -35,7 +27,7 @@
         "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
     },
     {
-        "id": 4,
+        "id": 3,
         "tittle": "JavaScript - Two dice pig",
         "description":"The game was improved by adding extra features into the game.",
         "note": "Click on the two dice pig card for more details",
@@ -43,7 +35,7 @@
         "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
     },
     {
-        "id": 5,
+        "id": 4,
         "tittle": "HTML & CSS",
         "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler.",
         "note": "Click on the html & css card for more details",
@@ -51,7 +43,7 @@
         "url": "https://github.com/braucalderon/html-css"
     },
     {
-        "id": 6,
+        "id": 5,
         "tittle": "Mobile device Android Development",
         "description":"Essentials of android mobile application development",
         "note": "Click on the mobile android card for more details",
