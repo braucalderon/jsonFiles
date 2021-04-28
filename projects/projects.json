@@ -2,15 +2,38 @@
 [
     {
         "id": 0,
-        "tittle": "React - Covid-Connect Daily Fact Checker ",
-        "description":"Web Application to track the national Covid pandemic using real data from the CDC.",
+        "tittle": "Mobile device Android Development",
+        "description":"Essentials of android mobile application development",
         "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
-        "url": "https://github.com/braucalderon/coronaVirus/tree/main/covid_connect"
-
+        "img": "https://raw.githubusercontent.com/braucalderon/andriod_class/master/final_project/covid2.gif",
+        "url": "https://github.com/braucalderon/andriod_class"
     },
     {
         "id": 1,
+        "tittle": "HTML & CSS",
+        "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler.",
+        "note": "Click for more details",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/html.gif",
+        "url": "https://github.com/braucalderon/html-css"
+    },
+    {
+        "id": 2,
+        "tittle": "JavaScript - Two dice pig",
+        "description":"The game was improved by adding extra features into the game.",
+        "note": "Click for more details",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
+        "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
+    },
+    {
+        "id": 3,
+        "tittle": "JavaScript - Budget project",
+        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback functions.",
+        "note": "Click for more details",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
+        "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
+    },
+    {
+        "id": 4,
         "tittle": "Java Prototype Application",
         "description":"Build an application using Java graphical user interface connected to a database.",
         "note": "Click for more details",
@@ -19,36 +42,13 @@
 
     },
     {
-        "id": 2,
-        "tittle": "JavaScript - Budget project",
-        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback functions.",
-        "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
-        "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
-    },
-    {
-        "id": 3,
-        "tittle": "JavaScript - Two dice pig",
-        "description":"The game was improved by adding extra features into the game.",
-        "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/game.gif",
-        "url": "https://github.com/braucalderon/javaScript/tree/master/two_dice_pig"
-    },
-    {
-        "id": 4,
-        "tittle": "HTML & CSS",
-        "description":"Learned the core basics of HML and CSS such animations, responsive design and Saas CSS pre-compiler.",
-        "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/html.gif",
-        "url": "https://github.com/braucalderon/html-css"
-    },
-    {
         "id": 5,
-        "tittle": "Mobile device Android Development",
-        "description":"Essentials of android mobile application development",
+        "tittle": "React - Covid-Connect Daily Fact Checker ",
+        "description":"Web Application to track the national Covid pandemic using real data from the CDC.",
         "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/andriod_class/master/final_project/covid2.gif",
-        "url": "https://github.com/braucalderon/andriod_class"
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
+        "url": "https://github.com/braucalderon/coronaVirus/tree/main/covid_connect"
+
     }
     
 ] 
