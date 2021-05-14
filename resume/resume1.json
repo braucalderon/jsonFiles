@@ -1,12 +1,14 @@
 [
+    
     {
-       "skills": 0,
-       "skill1": "Java",
-       "skill2": "React.js / Redux / Material UI",
-       "skill3": "Sql",
-       "skill4": "Android Development",
-       "skill5": "Git",
-       "skill6": "Bilingual - Spanish"
+        "skill": 0,
+        "1": "Java",
+        "2": "React.js / Redux / Material UI",
+        "3": "Sql",
+        "4": "Android Development",
+        "5": "Git",
+        "6": "Bilingual - Spanish"
+      
     },
     {
         "jobTittle": 1
