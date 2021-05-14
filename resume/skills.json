@@ -36,7 +36,19 @@
 
     },
     {
-        "jobtittle": 8
+        "experience": 1,
+        "jobTittle": "Back-End Developer",
+        "subTittle": "Java / Registration Prototype System",
+        "dateFrom": "May 2019",
+        "dateTo": "Aug 2019",
+        "bullet1": " • Built a customized overnight policy system for a student housing",
+        "bullet2": " • Built user friendly interface to perform standard CRUD operations",
+        "bullet3": " • Improved features to achieve efficiency by 75%"
+    },
+    {
+        "experience": 2,
+        "jobTittle": "Next.js / Web Developer / Internship"
+
     }
 
 
