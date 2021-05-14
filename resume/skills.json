@@ -2,37 +2,37 @@
     
     {
         "skill": 0,
-        "0": "Java"
+        "skills": "Java"
       
     },
     {
         "skill": 1,
-        "1": "React.js / Redux / Material UI"
+        "skills": "React.js / Redux / Material UI"
 
     },
     {
         "skill": 2,
-        "2": "Sql"
+        "skills": "Sql"
 
     },
     {
         "skill": 3,
-        "3": "React.js / Redux / Material UI"
+        "skills": "React.js / Redux / Material UI"
 
     },
     {
         "skill": 4,
-        "4": "Android Development"
+        "skills": "Android Development"
 
     },
     {
         "skill": 5,
-        "5": "React.js / Redux / Material UI"
+        "skills": "React.js / Redux / Material UI"
 
     },
     {
         "skill": 6,
-        "6": "Bilingual - Spanish"
+        "skills": "Bilingual - Spanish"
 
     }
 
