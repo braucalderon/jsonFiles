@@ -1,6 +1,6 @@
 [
     {
-       "skills": "skills",
+       "skills": 0,
        "skill1": "Java",
        "skill2": "React.js / Redux / Material UI",
        "skill3": "Sql",
@@ -9,6 +9,6 @@
        "skill6": "Bilingual - Spanish"
     },
     {
-        "jobTittle": "1"
+        "jobTittle": 1
     }
 ]
