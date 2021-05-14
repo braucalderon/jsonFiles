@@ -55,6 +55,18 @@
         "bullet2": " • Created components using CSS built-in modules",
         "bullet3": " • Configured libraries such Material UI to use in projects"
 
+    },
+    {
+        "experience": 2,
+        "jobTittle": "Web Developer / Covid-Connect",
+        "subTittle": "Tracking System / React.js",
+        "dateFrom": "Oct 2020",
+        "dateTo": "Jan 2021",
+        "bullet1": " • Built the visual design with Material UI",
+        "bullet2": " • Achieved data visualization",
+        "bullet3": " • Executed and manipulated client to server request",
+        "bullet4": " • Built an algorithm to refresh data automatically"
+
     }
 
 
