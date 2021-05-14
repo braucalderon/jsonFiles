@@ -51,9 +51,9 @@
         "subTittle": "Next.js / Web Developer / Internship",
         "dateFrom": "Jan 2020",
         "dateTo": "May 2020",
-        "bullet1": " • Collaborated in groups projects",
+        "bullet1": " • Collaborated in ideas for solutions",
         "bullet2": " • Created components using CSS built-in modules",
-        "bullet3": " • Configured libraries such Material UI to use in projects"
+        "bullet3": " • Created designs with Material UI"
 
     },
     {
@@ -68,6 +68,5 @@
         "bullet4": " • Built an algorithm to refresh data automatically"
 
     }
-
 
 ]
