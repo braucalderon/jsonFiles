@@ -13,11 +13,11 @@
         "jobSubTittle1": "Tracking System / React.js",
         "jobSubTittle2": "Next.js / Web Developer / Internship",
         "jobSubTittle3": "Java / Registration Prototype System",
-        "gpa": "GPA 3.0",
+        "gpa": "",
         "educationTittle1": "New York-Herbert H. Lehman College",
-        "educationTittle2": "CUNY Bronx Community College",
+        "educationTittle2": "",
         "educationSubTittle1": "BS, Computer Software Engineering",
-        "educationSubTittle2": "AS, Computer Software Engineering",
+        "educationSubTittle2": "",
         "interestsSubTittle1": "SHPE - NSBE Organizations" ,
         "skill1": "Java",
         "skill2": "React.js / Redux / Material UI",
@@ -44,8 +44,8 @@
         "descriptionJobSubTittle33":"Improved features to achieve efficiency by 75%",
         "graduationFrom1": "2018",
         "graduationTo1": "Expected Dec 2021",
-        "graduationFrom2": "2014",
-        "graduationTo2": "2018"
+        "graduationFrom2": "",
+        "graduationTo2": ""
         
     }
 ]
