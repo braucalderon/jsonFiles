@@ -58,6 +58,16 @@
     },
     {
         "experience": 3,
+        "jobTittle": "Tech Talent Residency BootCamp",
+        "subTittle": "Internship Training",
+        "dateFrom": "Jan 2020",
+        "dateTo": "Jan 2020",
+        "bullet1": "Technical Training:",
+        "bullet2": " • CSS / HTML / Git / React.js "
+
+    },
+    {
+        "experience": 4,
         "jobTittle": "Web Developer / Covid-Connect",
         "subTittle": "Tracking System / React.js",
         "dateFrom": "Oct 2020",
