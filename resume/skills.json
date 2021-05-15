@@ -47,6 +47,16 @@
     },
     {
         "experience": 2,
+        "jobTittle": "Tech Talent Residency BootCamp",
+        "subTittle": "Internship Training",
+        "dateFrom": "Jan 2020",
+        "dateTo": "Jan 2020",
+        "bullet1": "Technical Training:",
+        "bullet2": " • CSS / HTML / Git / React.js "
+
+    },
+    {
+        "experience": 3,
         "jobTittle": "The Knowledge House",
         "subTittle": "Next.js / Web Developer / Internship",
         "dateFrom": "Jan 2020",
@@ -54,16 +64,6 @@
         "bullet1": " • Collaborated in ideas for solutions",
         "bullet2": " • Created components using CSS built-in modules",
         "bullet3": " • Created designs with Material UI"
-
-    },
-    {
-        "experience": 3,
-        "jobTittle": "Tech Talent Residency BootCamp",
-        "subTittle": "Internship Training",
-        "dateFrom": "Jan 2020",
-        "dateTo": "Jan 2020",
-        "bullet1": "Technical Training:",
-        "bullet2": " • CSS / HTML / Git / React.js "
 
     },
     {
