@@ -2,37 +2,37 @@
     
     {
         "skill": 1,
-        "skills": "•  Bilingual - Spanish"
+        "skills": "• Bilingual - Spanish"
       
     },
     {
         "skill": 2,
-        "skills": "•  React.js / Redux / Material UI"
+        "skills": "• React.js / Redux / Material UI"
 
     },
     {
         "skill": 3,
-        "skills": "•  Sql"
+        "skills": "• Sql"
 
     },
     {
         "skill": 4,
-        "skills": "•  HTML / CSS"
+        "skills": "• HTML / CSS"
 
     },
     {
         "skill": 5,
-        "skills": "•  Android Development"
+        "skills": "• Android Development"
 
     },
     {
         "skill": 6,
-        "skills": "•  Git"
+        "skills": "• Git"
 
     },
     {
         "skill": 7,
-        "skills": "•  Java"
+        "skills": "• Java"
 
     },
     {
@@ -58,6 +58,16 @@
     },
     {
         "experience": 3,
+        "jobTittle": "Tech Talent Residency BootCamp",
+        "subTittle": "Internship Training",
+        "dateFrom": "Jan 2020",
+        "dateTo": "Jan 2020",
+        "bullet1": "Technical Training:",
+        "bullet2": " • CSS / HTML / Git / React.js "
+
+    },
+    {
+        "experience": 4,
         "jobTittle": "Web Developer / Covid-Connect",
         "subTittle": "Tracking System / React.js",
         "dateFrom": "Oct 2020",
