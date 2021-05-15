@@ -51,8 +51,9 @@
         "subTittle": "Internship Training / The Knowledge House",
         "dateFrom": "Jan 2020",
         "dateTo": "1 Month",
-        "bullet1": "Technical Training:",
-        "bullet2": " • CSS / HTML / Git / React.js "
+        "bullet1": " • React.js",
+        "bullet2": " • CSS / HTML",
+        "bullet3": " • Git"
     },
     {
         "experience": 3,
@@ -83,7 +84,7 @@
         "dateTo": "Present",
         "bullet1": " • Implemented Agile Methodology throughout the project",
         "bullet2": " • Effectively implemented Google Sign-in integration",
-        "bullet3": " • Built a count down algorithm to predict arrival time"
+        "bullet3": " • Achieved a prototype arrival time prediction"
     }
 
 ]
