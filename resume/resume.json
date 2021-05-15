@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "personalInfo": "Personal Info",
+        "skills": "Skills",
+        "email": "braucalderon3@gmail.com",
+        "experience": "Experience",
+        "education": "Education",
+        "interests": "Interests",
+        "gpa": "",
+        "educationTittle1": "New York-Herbert H. Lehman College",
+        "educationTittle2": "",
+        "educationSubTittle1": "BS, Computer Software Engineering",
+        "educationSubTittle2": "",
+        "interestsSubTittle1": "SHPE - NSBE Organizations" ,
+        "graduationFrom1": "2018",
+        "graduationTo1": "Expected Dec 2021",
+        "graduationFrom2": "",
+        "graduationTo2": ""
+        
+    }
+]
