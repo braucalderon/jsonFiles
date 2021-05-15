@@ -19,14 +19,6 @@
     },
     {
         "id": 2,
-        "tittle": "JavaScript - Budget project",
-        "description":"Manipulation of the DOM. JavaScript ES5. Understanding of JavaScript closures and callback functions.",
-        "note": "Click for more details",
-        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/budget.gif",
-        "url": "https://github.com/braucalderon/javaScript/tree/master/budget"
-    },
-    {
-        "id": 3,
         "tittle": "Mobile device Android Development",
         "description":"Essentials of android mobile application development",
         "note": "Click for more details",
@@ -34,7 +26,7 @@
         "url": "https://github.com/braucalderon/andriod_class"
     },
     {
-        "id": 4,
+        "id": 3,
         "tittle": "Java Prototype Application",
         "description":"Build an application using Java graphical user interface connected to a database.",
         "note": "Click for more details",
@@ -43,7 +35,7 @@
 
     },
     {
-        "id": 5,
+        "id": 4,
         "tittle": "React - Covid-Connect Daily Fact Checker ",
         "description":"Web Application to track the national Covid pandemic using real data from the CDC.",
         "note": "Click for more details",
