@@ -50,7 +50,7 @@
         "jobTittle": "Tech Talent Residency BootCamp",
         "subTittle": "Internship Training / The Knowledge House",
         "dateFrom": "Jan 2020",
-        "dateTo": "Jan 2020",
+        "dateTo": "1 Month",
         "bullet1": "Technical Training:",
         "bullet2": " • CSS / HTML / Git / React.js "
     },
@@ -59,23 +59,31 @@
         "jobTittle": "The Knowledge House",
         "subTittle": "Next.js / Web Developer / Internship",
         "dateFrom": "Jan 2020",
-        "dateTo": "1 Month",
+        "dateTo": "May 2020",
         "bullet1": " • Collaborated in ideas for solutions",
         "bullet2": " • Created components using CSS built-in modules",
         "bullet3": " • Created designs with Material UI"
-
     },
     {
         "experience": 4,
-        "jobTittle": "Web Developer / Covid-Connect",
-        "subTittle": "Tracking System / React.js",
+        "jobTittle": "Covid-Connect",
+        "subTittle": "Tracking System / React.js / Web Development",
         "dateFrom": "Oct 2020",
         "dateTo": "Jan 2021",
         "bullet1": " • Built the visual design with Material UI",
         "bullet2": " • Achieved data visualization",
         "bullet3": " • Executed and manipulated client to server request",
         "bullet4": " • Built an algorithm to refresh data automatically"
-
+    },
+    {
+        "experience": 5,
+        "jobTittle": "Tracking Prediction System",
+        "subTittle": "Web Development / React.js",
+        "dateFrom": "Jan 2021",
+        "dateTo": "Present",
+        "bullet1": " • Implemented Agile Methodology throughout the project",
+        "bullet2": " • Created Google Sign-in integration",
+        "bullet3": " • Created a count down system to predict arrival time"
     }
 
 ]
