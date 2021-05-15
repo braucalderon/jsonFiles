@@ -50,6 +50,15 @@
         "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/covid.gif",
         "url": "https://github.com/braucalderon/coronaVirus/tree/main/covid_connect"
 
+    },
+    {
+        "id": 5,
+        "tittle": "React - Prototype Ohio Transit System",
+        "description":"Web Application to assimilate prediction in arrival times.",
+        "note": "Click for more details",
+        "img": "https://github.com/braucalderon/trackingPredictionSystem",
+        "url": "https://github.com/braucalderon/coronaVirus/tree/main/covid_connect"
+
     }
     
 ] 
