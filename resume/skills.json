@@ -83,7 +83,7 @@
         "dateTo": "Present",
         "bullet1": " • Implemented Agile Methodology throughout the project",
         "bullet2": " • Created Google Sign-in integration",
-        "bullet3": " • Created a count down system to predict arrival time"
+        "bullet3": " • Built a count down algorithm to predict arrival time"
     }
 
 ]
