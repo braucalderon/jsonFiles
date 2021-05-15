@@ -48,7 +48,7 @@
         "tittle": "React - Prototype Ohio Transit System",
         "description":"Web Application to assimilate prediction in arrival times.",
         "note": "Click for more details",
-        "img": "",
+        "img": "https://raw.githubusercontent.com/braucalderon/jsonFiles/main/track.gif",
         "url": "https://github.com/braucalderon/trackingPredictionSystem"
 
     }
