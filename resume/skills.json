@@ -1,0 +1,81 @@
+[
+    
+    {
+        "skill": 1,
+        "skills": "• Bilingual - Spanish"
+      
+    },
+    {
+        "skill": 2,
+        "skills": "• React.js / Redux / Material UI"
+
+    },
+    {
+        "skill": 3,
+        "skills": "• Sql"
+
+    },
+    {
+        "skill": 4,
+        "skills": "• HTML / CSS"
+
+    },
+    {
+        "skill": 5,
+        "skills": "• Android Development"
+
+    },
+    {
+        "skill": 6,
+        "skills": "• Git"
+
+    },
+    {
+        "skill": 7,
+        "skills": "• Java"
+
+    },
+    {
+        "experience": 1,
+        "jobTittle": "Back-End Developer",
+        "subTittle": "Java / Registration Prototype System",
+        "dateFrom": "May 2019",
+        "dateTo": "Aug 2019",
+        "bullet1": " • Built a customized overnight policy system for a student housing",
+        "bullet2": " • Built user friendly interface to perform standard CRUD operations",
+        "bullet3": " • Improved features to achieve efficiency by 75%"
+    },
+    {
+        "experience": 2,
+        "jobTittle": "Tech Talent Residency BootCamp",
+        "subTittle": "Internship Training",
+        "dateFrom": "Jan 2020",
+        "dateTo": "Jan 2020",
+        "bullet1": "Technical Training:",
+        "bullet2": " • CSS / HTML / Git / React.js "
+    },
+    {
+        "experience": 3,
+        "jobTittle": "The Knowledge House",
+        "subTittle": "Next.js / Web Developer / Internship",
+        "dateFrom": "Jan 2020",
+        "dateTo": "May 2020",
+        "bullet1": " • Collaborated in ideas for solutions",
+        "bullet2": " • Created components using CSS built-in modules",
+        "bullet3": " • Created designs with Material UI"
+
+    },
+    {
+        "experience": 4,
+        "jobTittle": "Web Developer / Covid-Connect",
+        "subTittle": "Tracking System / React.js",
+        "dateFrom": "Oct 2020",
+        "dateTo": "Jan 2021",
+        "bullet1": " • Built the visual design with Material UI",
+        "bullet2": " • Achieved data visualization",
+        "bullet3": " • Executed and manipulated client to server request",
+        "bullet4": " • Built an algorithm to refresh data automatically"
+
+    }
+
+]
