@@ -12,7 +12,7 @@
     },
     {
         "skill": 3,
-        "skills": "• Sql"
+        "skills": "• MySQL"
 
     },
     {
@@ -48,13 +48,13 @@
     {
         "experience": 2,
         "jobTittle": "The Knowledge House",
-        "subTittle": "Next.js / Web Developer / Internship",
+        "subTittle": "Next.js / Web Development / Internship",
         "dateFrom": "Jan 2020",
         "dateTo": "May 2020",
         "bullet1": " • Collaborated in ideas for solutions",
         "bullet2": " • Created components using CSS built-in modules",
         "bullet3": " • Created designs with Material UI",
-        "bullet4": " • One Month boot camp training in React.js, Git, and CSS / HTML"
+        "bullet4": " • One month boot camp training in React.js, Git, and CSS / HTML"
     },
     {
         "experience": 3,
