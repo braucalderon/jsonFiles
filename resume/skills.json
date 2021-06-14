@@ -36,6 +36,10 @@
 
     },
     {
+        "skill": 8,
+        "skills": "• Firebase"
+    },
+    {
         "experience": 1,
         "jobTittle": "Back-End Development",
         "subTittle": "Java / Prototype Registration System",
@@ -74,7 +78,7 @@
         "dateFrom": "Jan 2021",
         "dateTo": "Present",
         "bullet1": " • Implemented Agile Methodology throughout the project",
-        "bullet2": " • Effectively implemented Google sign-in integration",
+        "bullet2": " • Effectively implemented Google sign-in integration using Firebase",
         "bullet3": " • Achieved a prototype arrival prediction time"
     }
 
